@@ -1,5 +1,5 @@
 {
-  "name": "react-helper-components",
+  "name": "app-helper-components",
   "version": "1.0.0",
   "description": "A ReactJS Library which contains reusable components to help developer to create application easily.",
   "main": "index.js",
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/engr-muzammil/react-helper-components.git"
+    "url": "git+https://github.com/engr-muzammil/app-helper-components.git"
   },
   "author": "Muzammil Ahmed",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/engr-muzammil/react-helper-components/issues"
+    "url": "https://github.com/engr-muzammil/app-helper-components/issues"
   },
-  "homepage": "https://github.com/engr-muzammil/react-helper-components#readme",
+  "homepage": "https://github.com/engr-muzammil/app-helper-components#readme",
   "engineStrict": true
 }
