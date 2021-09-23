@@ -1,0 +1,19 @@
+{
+  "name": "react-helper-components",
+  "version": "1.0.0",
+  "description": "A ReactJS Library which contains reusable components to help developer to create application easily.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engr-muzammil/react-helper-components.git"
+  },
+  "author": "Muzammil Ahmed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/engr-muzammil/react-helper-components/issues"
+  },
+  "homepage": "https://github.com/engr-muzammil/react-helper-components#readme"
+}
