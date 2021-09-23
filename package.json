@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/engr-muzammil/react-helper-components/issues"
   },
-  "homepage": "https://github.com/engr-muzammil/react-helper-components#readme"
+  "homepage": "https://github.com/engr-muzammil/react-helper-components#readme",
+  "engineStrict": true
 }
